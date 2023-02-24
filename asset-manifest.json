@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/joellab/static/css/main.ffb56994.css",
-    "main.js": "/joellab/static/js/main.d327956c.js",
+    "main.js": "/joellab/static/js/main.e7367e5c.js",
     "index.html": "/joellab/index.html",
     "main.ffb56994.css.map": "/joellab/static/css/main.ffb56994.css.map",
-    "main.d327956c.js.map": "/joellab/static/js/main.d327956c.js.map"
+    "main.e7367e5c.js.map": "/joellab/static/js/main.e7367e5c.js.map"
   },
   "entrypoints": [
     "static/css/main.ffb56994.css",
-    "static/js/main.d327956c.js"
+    "static/js/main.e7367e5c.js"
   ]
 }
